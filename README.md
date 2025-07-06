@@ -3,7 +3,10 @@
 ## Installation
 **1.Clone Repo**
 ```sh
-git clone https://github.com/shyam999/Athanasius.git
+git clone https://github.com/rhemanth832/Athanasius.git
+```
+```sh
+cd Athanasius
 ```
 **2.Install Requirements**
 ```sh
